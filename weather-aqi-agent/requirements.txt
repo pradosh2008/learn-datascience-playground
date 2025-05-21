@@ -1,0 +1,2 @@
+requests
+# Add other libraries as needed, e.g., a JSON library if not built-in
